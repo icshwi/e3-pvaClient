@@ -1,0 +1,4 @@
+[submodule "pvaClientCPP"]
+	path = pvaClientCPP
+	url = https://github.com/epics-base/pvaClientCPP
+	ignore = all
